@@ -1,2 +1,3 @@
-# nova-recipe-manager-cs6o
+# Nova Recipe Manager Cs6O
+
 A repository to test GitHub automation for issue management.
